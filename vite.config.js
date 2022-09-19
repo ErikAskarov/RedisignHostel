@@ -7,6 +7,7 @@ export default defineConfig({
   resolve: {
     alias: {
       path: "path-browserify",
+      base: '/RedisignHostel/'
     },
   },
 })
